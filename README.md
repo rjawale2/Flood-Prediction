@@ -13,3 +13,6 @@ This project uses environmental and infrastructural data to predict flood-prone 
 ## 🧪 How to Run
 1. Clone the repo
 2. Install required packages
+
+## 📂 Dataset
+Publicly available flood dataset from [SOURCE LINK OR “included in repo”].
