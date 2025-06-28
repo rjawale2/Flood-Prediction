@@ -5,7 +5,7 @@ This project uses environmental and infrastructural data to predict flood-prone 
 - `flood_prediction.ipynb` – Jupyter Notebook with the full analysis
 - `flood_data.csv` – Dataset used for model training/testing
 - `Project Report.pdf` – Detailed project report
-- 
+  
 ## 📊 Tools & Technologies
 - Python, Pandas, Scikit-learn, XGBoost, SMOTE, Matplotlib, Seaborn
 
