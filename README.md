@@ -9,5 +9,5 @@ This project uses environmental and infrastructural data to predict flood-prone 
 ## 📊 Tools & Technologies
 - Python, Pandas, Scikit-learn, XGBoost, SMOTE, Matplotlib, Seaborn
 
-## 📂 Dataset
+## 📂 Datasett
 Publicly available flood dataset from [SOURCE LINK OR “included in repo”].
